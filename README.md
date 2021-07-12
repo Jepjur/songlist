@@ -1,3 +1,5 @@
+# A simple module that let's you add songs to a list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
